@@ -4,7 +4,9 @@
 
 Me chamo Gustavo dos Santos Pombal, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio no SESI de Avaré. Atualmente estou no último ano de Análise e Desenvolvimento de Sistemas no Centro Universitário Eduvale. Amo tecnologia e procuro me especializar na área fullstack. 
 
----
+
+<br>
+<hr>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -18,7 +20,9 @@ Me chamo Gustavo dos Santos Pombal, tenho 20 anos e sou natural de São Paulo. C
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
----
+<br>
+<hr>
+
 ### 📊 Estatísticas
 
 <div align="center" >
