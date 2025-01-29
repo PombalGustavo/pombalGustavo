@@ -1,8 +1,10 @@
-👩🏻‍💻 Gustavo Pombal
+# 👩🏻‍💻 Gustavo Pombal
 
 **`Estudante de programção Fullstack e estagiário em suporte de TI & Infra`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Gustavo dos Santos Pombal, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio no SESI de Avaré. Atualmente estou no último ano de Análise e Desenvolvimento de Sistemas no Centro Universitário Eduvale. Amo tecnologia e procuro me especializar na área fullstack. 
+
+---
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -15,6 +17,8 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
+
+---
 
 <div align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=RaaphaelGomesS&show_icons=true&theme=dark&hide_border=true#gh-dark-mode-only" height="150" alt="stats graph"  />
